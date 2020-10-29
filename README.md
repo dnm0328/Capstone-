@@ -1,4 +1,4 @@
-# NFL Defensive Relavence 
+# NFL Defensive Relevence 
 
 ## During EDA I Found: 
 
