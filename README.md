@@ -17,9 +17,9 @@ Analyzing and comparing the samples over a single season, on either data point, 
 
 Essentially, no representation confidently portrayed a normalized distribution to back up the choice of using a Welch's t-test. 
 
-![2009][AVG_YDS_2009.png]
+![2009](AVG_YDS_2009.png)
 ![2011][AVG_YDS_2011.png]
-![2013][AVG_YDS_2013.png]
+![2013](images/AVG_YDS_2013.png)
 ![2015]['images/AVG_YDS_2015.png']
 ![2017]['images/AVG_YDS_2017.png']
 ![2019]['images/AVG_YDS_2019.png']
