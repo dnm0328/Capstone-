@@ -44,7 +44,7 @@ Does Defensive strength for an NFL team, based on yards allowed, increase or dec
 
 The mean yrds_against for teams that make the playoffs = the mean yrds_against of teams that did not make the playoffs
 
-$$ p_M = P(\text{avg_yards against for TMs that make playoffs}) $$
+<$$ p_M = P(\text{avg_yards against for TMs that make playoffs}) $$>
 $$ p_D = P(\text{avg_yards against for TMs that don't make playoffs}) $$
 
 $$ H_0: \ p_M = p_D $$
